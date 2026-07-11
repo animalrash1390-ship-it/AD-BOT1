@@ -1,3 +1,5 @@
-wheel
 highrise-bot-sdk
 aiohttp
+python-dotenv
+requests
+websockets
